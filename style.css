@@ -1,0 +1,133 @@
+:root {
+    --cor-principal: #f25e8d;
+}
+
+body {
+      font-family: 'Work Sans', sans-serif; 
+}
+
+.circulo-navbar {
+    color: var(--cor-principal);
+}
+
+#titulo-navbar {
+    font-weight:bolder;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.circulo-nav {
+    height: 85px;
+    background-color: var(--cor-principal);
+}
+
+footer {
+
+    border-top: 1px solid lightgray;
+}
+
+.icone-rede {
+    font-size: 2rem;
+}
+
+@media (min-width: 768px) {
+    .circulo-navbar {
+        font-size: 2.5rem;
+    }
+    
+    #titulo-navbar {
+        font-size: 2.5rem;
+    }
+
+    .item-lista {
+        font-size: 1.5rem;
+    }
+
+    #profile {
+        width: 480px;
+        height: 480px;
+    }
+
+    h1 {
+        font-size: 4rem;
+    }
+    
+    h4 {
+        font-size: 2rem;
+    }
+    
+    #descricao-sobre-mim {
+        font-size: 2rem;
+    }
+
+    .circulo-nav {
+        height: 180px;
+    }
+
+    .descricao-link {
+        font-size: 2rem;
+    }
+
+    footer {
+        font-size: 2rem;
+    }
+
+    .icone-rede {
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 992px) {
+   
+
+    .circulo-navbar {
+        font-size: 1.2rem;
+    }
+    
+    #titulo-navbar {
+        font-size: 1.2rem;
+    }
+
+    .item-lista {
+        font-size: 1rem;
+    }
+
+    #profile {
+        width: 400px;
+        height: 400px;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+    
+    h4 {
+        font-size: 1rem;
+    }
+    
+    #descricao-sobre-mim {
+        font-size: 1rem;
+    }
+
+    .circulo-nav {
+        height: 160px;
+    }
+
+    .descricao-link {
+        font-size: 1.5rem;
+    }
+
+    footer {
+        font-size: 1rem;
+    }
+
+    .icone-rede {
+        font-size: 1.5rem;
+    }
+
+}
+    
+
+
