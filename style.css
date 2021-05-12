@@ -92,41 +92,41 @@ footer {
     }
 
     .item-lista {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     #profile {
-        width: 480px;
-        height: 480px;
+        width: 350px;
+        height: 350px;
     }
 
     h1 {
-        font-size: 3rem;
+        font-size: 3.5rem;
     }
     
     h4 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     
     #descricao-sobre-mim {
-        font-size: 2rem;
+        font-size: 1.3rem;
     }
 
     .circulo-nav {
-        width: 180px;
-        height: 180px;
+        width: 150px;
+        height: 150px;
     }
 
     .descricao-link {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     footer {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     .icone-rede {
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
 }
 
