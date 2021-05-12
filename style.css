@@ -19,30 +19,80 @@ h1 {
 }
 
 .circulo-nav {
+    width: 85px;
     height: 85px;
     background-color: var(--cor-principal);
 }
 
 footer {
-
+    font-size: 13px;
     border-top: 1px solid lightgray;
 }
 
 .icone-rede {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 576px) {
     .circulo-navbar {
-        font-size: 2.5rem;
+        font-size: 1rem;
     }
     
     #titulo-navbar {
-        font-size: 2.5rem;
+        font-size: 1rem;
     }
 
     .item-lista {
+        font-size: 1rem;
+    }
+
+    #profile {
+        width: 280px;
+        height: 280px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h4 {
+        font-size: 1rem;
+    }
+    
+    #descricao-sobre-mim {
+        font-size: 13px;
+    }
+
+    .circulo-nav {
+        width: 70px;
+        height: 70px;
+    }
+
+    .descricao-link {
+        font-size: 0.8rem;
+    }
+
+    footer {
+        font-size: 1rem;
+    }
+
+    .icone-rede {
+        font-size: 1rem;
+    }
+}
+
+
+@media (min-width: 768px) {
+    .circulo-navbar {
         font-size: 1.5rem;
+    }
+    
+    #titulo-navbar {
+        font-size: 1.5rem;
+    }
+
+    .item-lista {
+        font-size: 1rem;
     }
 
     #profile {
@@ -51,7 +101,7 @@ footer {
     }
 
     h1 {
-        font-size: 4rem;
+        font-size: 3rem;
     }
     
     h4 {
@@ -63,6 +113,7 @@ footer {
     }
 
     .circulo-nav {
+        width: 180px;
         height: 180px;
     }
 
@@ -71,11 +122,11 @@ footer {
     }
 
     footer {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     .icone-rede {
-        font-size: 3rem;
+        font-size: 1rem;
     }
 }
 
