@@ -202,6 +202,59 @@ footer {
 
   
 }
+
+@media (min-width: 1400px) {
+  
+   
+    .circulo-navbar {
+        font-size: 1.8rem;
+    }
+    
+    #titulo-navbar {
+        font-size: 1.5rem;
+    }
+
+    .item-lista {
+        font-size: 1.3rem;
+        margin-right:2rem ;
+    }
+
+    #profile {
+        width: 550px;
+        height: 550px;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+    
+    h4 {
+        font-size: 1.5rem;
+    }
+    
+    #descricao-sobre-mim {
+        font-size: 1.2rem;
+    }
+
+    .circulo-nav {
+        width: 120px;
+        height: 120px;
+    }
+
+    .descricao-link {
+        font-size: 1.3rem;
+    }
+
+    footer {
+        font-size: 1.3rem;
+    }
+
+    .icone-rede {
+        font-size: 2rem;
+    }
+
+  
+}
     
 
 
