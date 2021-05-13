@@ -84,7 +84,7 @@ footer {
 
 @media (min-width: 768px) {
     .circulo-navbar {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     
     #titulo-navbar {
@@ -92,7 +92,7 @@ footer {
     }
 
     .item-lista {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     #profile {
@@ -134,15 +134,15 @@ footer {
    
 
     .circulo-navbar {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
     
     #titulo-navbar {
-        font-size: 1.2rem;
+        font-size: 1.4rem;
     }
 
     .item-lista {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     #profile {
@@ -207,7 +207,7 @@ footer {
   
    
     .circulo-navbar {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
     }
     
     #titulo-navbar {
