@@ -180,6 +180,28 @@ footer {
     }
 
 }
+
+@media (min-width: 1200px) {
+  
+    h4 {
+        font-size: 1.2rem;
+    }
+    
+    #descricao-sobre-mim {
+        font-size: 1.1rem;
+    }
+
+    .circulo-nav {
+        width: 110px;
+        height: 110px;
+    }
+
+    .descricao-link {
+        font-size: 1.2rem;
+    }
+
+  
+}
     
 
 
