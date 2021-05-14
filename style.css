@@ -20,6 +20,8 @@ h1 {
 
 #descricao-sobre-mim {
     font-size: 1rem;
+    text-align: justify;
+    padding: auto;
 }
 
 .circulo-nav {
